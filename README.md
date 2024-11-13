@@ -55,9 +55,9 @@ Release Resources and Close Files
 - Output a message indicating that the data extraction is complete.
 
 **Instructions to Run Locally:**
-**Install Required Libraries**:
-   Open a terminal and run the following commands to install the necessary libraries:
-  ```bash
-   pip install opencv-python
-   pip install mediapipe
-   pip install pandas
+
+1) Install Required Libraries:
+   - Open a terminal and run the following commands to install the necessary libraries:
+       - pip install opencv-python
+       - pip install mediapipe
+       - pip install pandas
