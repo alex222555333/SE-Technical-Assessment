@@ -57,6 +57,7 @@ Release Resources and Close Files
 **Instructions to Run Locally:**
 **Install Required Libraries**:
    Open a terminal and run the following commands to install the necessary libraries:
+  ```bash
    pip install opencv-python
    pip install mediapipe
    pip install pandas
