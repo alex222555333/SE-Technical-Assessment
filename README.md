@@ -53,3 +53,10 @@ Release Resources and Close Files
 
 - Close the video file and the CSV file.
 - Output a message indicating that the data extraction is complete.
+
+**Instructions to Run Locally:**
+**Install Required Libraries**:
+   Open a terminal and run the following commands to install the necessary libraries:
+   pip install opencv-python
+   pip install mediapipe
+   pip install pandas
